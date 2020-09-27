@@ -1,5 +1,5 @@
 {
-  "name": "forkify",
+  "name": "forkify-project",
   "version": "1.0.0",
   "description": "forkify project",
   "main": "index.js",
@@ -20,7 +20,16 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "axios": "^0.20.0",
     "core-js": "^3.6.5",
     "regenerator-runtime": "^0.13.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haasin-farooq/forkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haasin-farooq/forkify/issues"
+  },
+  "homepage": "https://github.com/haasin-farooq/forkify#readme"
 }
